@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio prático - Fundamentos de C-Sharp", "Desafio prático - Fundamentos de C-Sharp\Desafio prático - Fundamentos de C-Sharp.csproj", "{16AC39DD-0269-40B2-9A27-7D5856435794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16AC39DD-0269-40B2-9A27-7D5856435794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AC39DD-0269-40B2-9A27-7D5856435794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AC39DD-0269-40B2-9A27-7D5856435794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AC39DD-0269-40B2-9A27-7D5856435794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DBAA19-18F1-439C-93CC-EC1F253F5A71}
+	EndGlobalSection
+EndGlobal
